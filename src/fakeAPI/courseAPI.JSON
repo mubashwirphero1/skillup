@@ -1,6 +1,7 @@
 [
     {
         "_id": 202110041,
+        "image": "https://media.istockphoto.com/vectors/front-end-development-vector-id1019917456?k=20&m=1019917456&s=612x612&w=0&h=QOR5CEeVdLPgP8dsYDuYn9Djmg9d7VFZjnzyhisWnps=",
         "name": "Front-End web development",
         "price": 30,
         "ratings": 4.1,
@@ -10,27 +11,32 @@
     },
     {
         "_id": 202110042,
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Back_End_Developer.jpg",
         "name": "Masterclass in PHP and LRAVEL",
         "price": 45,
         "ratings": 4.3,
         "reviews": 36,
-        "time": "1mo 30d",
+        "time": "1mo 15d",
         "enrolled": 3000
     },
     {
         "_id": 202110043,
+        "image": "https://api.softwarekeep.com/media/nimbus/helpcenter/MS-Office-pack.jpg",
         "name": "Advanced crash course in MS office",
         "price": 45,
         "ratings": 4.5,
         "reviews": 55,
+        "time": "1mo",
         "enrolled": 5000
     },
     {
         "_id": 202110044,
+        "image": "https://pesktop.imgix.net/uploads/f6a92e548fbc3145ac8ffc260c500f5a.png?fit=crop&w=700&h=400&auto=format&fm=jpg&mark-w=150&mark-h=40&mark=https://pesktop.imgix.net/css/img/200X200-COLORS.png&q=50&mark-alpha=60",
         "name": "Masterclass in Cartoon design and Animation",
         "price": 70,
         "ratings": 4,
         "reviews": 30,
+        "time": "2mo",
         "enrolled": 2350
     }
 ]

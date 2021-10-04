@@ -1,0 +1,18 @@
+.about-us{
+    text-align: center;
+}
+.regular-color{
+    color:#FF630E;
+    font-weight: 600;
+}
+.services{
+    padding: 5%;
+    background-color: #F7F7F7;
+    margin-top: 50px;
+}
+.service{
+    padding: 10%;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 5px lightgrey;
+}

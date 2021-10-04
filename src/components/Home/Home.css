@@ -1,0 +1,31 @@
+.top-banner{
+    text-align: center;
+    color: #fff;
+    position: relative;background-image: url(../../images/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top-banner-opacity{
+    padding: 20%;
+    background-color: #040457e7;
+    opacity: 0.9;
+}
+.regular-small{
+    color: #ffb731;
+    font-weight: 700;
+}
+.regular-btn{
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    background-color: #ce8909;
+    cursor: pointer;
+}
+.course-offer{
+    margin-top: 150px;
+}
+.fluid{
+    width: 100%;
+}
