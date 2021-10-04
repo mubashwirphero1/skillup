@@ -1,0 +1,36 @@
+[
+    {
+        "_id": 202110041,
+        "name": "Front-End web development",
+        "price": 30,
+        "ratings": 4.1,
+        "reviews": 50,
+        "time": "2mo 2d",
+        "enrolled": 4500
+    },
+    {
+        "_id": 202110042,
+        "name": "Masterclass in PHP and LRAVEL",
+        "price": 45,
+        "ratings": 4.3,
+        "reviews": 36,
+        "time": "1mo 30d",
+        "enrolled": 3000
+    },
+    {
+        "_id": 202110043,
+        "name": "Advanced crash course in MS office",
+        "price": 45,
+        "ratings": 4.5,
+        "reviews": 55,
+        "enrolled": 5000
+    },
+    {
+        "_id": 202110044,
+        "name": "Masterclass in Cartoon design and Animation",
+        "price": 70,
+        "ratings": 4,
+        "reviews": 30,
+        "enrolled": 2350
+    }
+]
